@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800');
+
+$defaultFontFamily: Montserrat, sans-serif;
+$defaultFontSize: 14px;
+$defaultLineHeight: 1;
+
+$regular12: 12px / #{$defaultLineHeight} $defaultFontFamily;
+$semibold12: 600 $regular12;
+$bold12: 700 $regular12;
+
+$regular10: 10px / #{$defaultLineHeight} $defaultFontFamily;
+$semibold10: 600 $regular10;
